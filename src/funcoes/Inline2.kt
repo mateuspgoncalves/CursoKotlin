@@ -18,4 +18,5 @@ fun main(args: Array<String>) {
         somar2(2,5)
     }
     println(resultado)
+    println("teste")
 }
