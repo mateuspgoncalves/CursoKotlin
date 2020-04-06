@@ -1,2 +1,0 @@
-# CursoKotlin
-Exercícios Kotlin
