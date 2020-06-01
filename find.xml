@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'cash.x.api.backoffice'" />
-    <option name="defaultScopeName" value="Project 'cash.x.api.backoffice'" />
-    <option name="SEARCH_SCOPE" value="Project 'cash.x.api.backoffice'" />
+    <option name="customScope" value="Project 'otimo.api.public'" />
+    <option name="defaultScopeName" value="Project 'otimo.api.public'" />
+    <option name="SEARCH_SCOPE" value="Project 'otimo.api.public'" />
   </component>
 </application>
