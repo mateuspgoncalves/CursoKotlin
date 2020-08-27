@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\modules\eguardian\src\main\kotlin\otimo\api\backoffice\eguardian\EGuardianController.kt [otimo.api.backoffice.otimo.api.backoffice.eguardian.main]'" />
-    <option name="defaultScopeName" value="File '...\modules\eguardian\src\main\kotlin\otimo\api\backoffice\eguardian\EGuardianController.kt [otimo.api.backoffice.otimo.api.backoffice.eguardian.main]'" />
+    <option name="customScope" value="File 'D:\VentureLabs\Repositorios\otimo\otimo-kt-core\src\main\kotlin\otimo\core\domain\EGuardianDomain.kt [otimo.api.backoffice.otimo.core.main]'" />
+    <option name="defaultScopeName" value="File 'D:\VentureLabs\Repositorios\otimo\otimo-kt-core\src\main\kotlin\otimo\core\domain\EGuardianDomain.kt [otimo.api.backoffice.otimo.core.main]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\modules\eguardian\src\main\kotlin\otimo\api\backoffice\eguardian\EGuardianController.kt [otimo.api.backoffice.otimo.api.backoffice.eguardian.main]'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\VentureLabs\Repositorios\otimo\otimo-kt-core\src\main\kotlin\otimo\core\domain\EGuardianDomain.kt [otimo.api.backoffice.otimo.core.main]'" />
   </component>
 </application>
