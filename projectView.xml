@@ -1,6 +1,8 @@
 <application>
   <component name="ProjectViewSharedSettings">
-    <option name="showExcludedFiles" value="false" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyPackages" value="false" />
     <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
   </component>
 </application>
