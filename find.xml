@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\clients\src\main\kotlin\otimo\api\app\handler\CustomersHandler.kt [otimo.api.app.otimo-kt-app-api.clients.main]'" />
-    <option name="defaultScopeName" value="File '...\clients\src\main\kotlin\otimo\api\app\handler\CustomersHandler.kt [otimo.api.app.otimo-kt-app-api.clients.main]'" />
-    <option name="SEARCH_SCOPE" value="File '...\clients\src\main\kotlin\otimo\api\app\handler\CustomersHandler.kt [otimo.api.app.otimo-kt-app-api.clients.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
